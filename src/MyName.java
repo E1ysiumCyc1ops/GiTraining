@@ -5,6 +5,7 @@ class MyName {
         System.out.println("Nicola-->Sto provando a fare cose");
         System.out.println("Leo");
         System.out.println("Christian Nocerino");
+        System.out.println("Prova2");
     }
 
 }

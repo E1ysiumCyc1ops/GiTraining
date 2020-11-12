@@ -1,7 +1,7 @@
 class MyName {
 
     public static void main(String[] args) {
-        System.out.println("Luca_Memoli");
+        System.out.println("Luca Memoli");
     }
 
 }

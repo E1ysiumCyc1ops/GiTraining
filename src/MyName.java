@@ -6,7 +6,7 @@ class MyName {
         System.out.println("Leo");
         System.out.println("Christian Nocerino");
         System.out.println("Nicola-->Prova2");
-        System.out.println("Pasquale");
+        System.out.println("Pasquale Napolitano");
         System.out.println("Prova4");
     }
 
